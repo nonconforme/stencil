@@ -5,7 +5,7 @@
 [![license][npm-license]][npm-license-url]
 
 
-# Stencil: A Compiler for Web Components and PWAs
+# StencilFork: A Compiler for Web Components and PWAs with Firefox compatibility
 
 ```bash
 npm init stencil
